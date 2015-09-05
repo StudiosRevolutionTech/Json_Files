@@ -1,6 +1,17 @@
 { 
 "wallpapers": 
 	[
+	 	{
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_patron.png",
+			"name": "Pattern"
+		},
+
+	    {
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_2.png",
+			"name": "Lines"
+		},
 	    {
 			"author": "Hector Franco",
 			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_1.png",
