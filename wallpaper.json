@@ -1,6 +1,11 @@
 { 
 "wallpapers": 
 	[
+	    {
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_1.png",
+			"name": "Cuadros"
+		},
 		{
 			"author": "Hector Franco",
 			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/FondoGuay1.png",
