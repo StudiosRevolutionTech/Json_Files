@@ -1,6 +1,29 @@
 { 
 "wallpapers": 
 	[
+		{
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_rectangulos.png",
+			"name": "Rectangles"
+		},
+
+		{
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_rainbow.png",
+			"name": "Rainbow"
+		},
+
+		{
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_circles.png",
+			"name": "Circles"
+		},
+
+		{
+			"author": "Hector Franco",
+			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_triangles.png",
+			"name": "Coulor Triangles"
+		},
 	 	{
 			"author": "Hector Franco",
 			"url": "https://raw.githubusercontent.com/StudiosRevolutionTech/Json_Files/master/wallpapers/wallpaper_patron.png",
